@@ -21,6 +21,7 @@ private:
 
     void applySpeed();
     void checkCollisionWithDiamonds(std::vector<Diamond>& diamonds);
+  
 };
 
 #endif // BALL_H
